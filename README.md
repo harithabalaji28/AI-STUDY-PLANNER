@@ -32,5 +32,11 @@ Run the application:
 streamlit run main.py
 ```
 
+## 🌐 Live Demo
+
+Try the AI Study Planner here:
+
+[Open AI Study Planner](https://ai-study-planner-fvuhhx2scyot7xfjggjym4.streamlit.app/)
+
 ## Developed By
 AI & Data Science Student
