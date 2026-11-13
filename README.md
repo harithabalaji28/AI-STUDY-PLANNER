@@ -20,17 +20,10 @@ A beginner-friendly study planning and tracking application built using Python a
 
 ## How to Run
 
-Install the required libraries:
+### 1. Install the required libraries
 
 ```bash
 pip install -r requirements.txt
-```
-
-Run the application:
-
-```bash
-streamlit run main.py
-```
 
 ## 🌐 Live Demo
 
