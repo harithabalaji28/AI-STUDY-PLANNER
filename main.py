@@ -256,6 +256,11 @@ with st.form("study_plan_form"):
             max_value=12,
             value=3,
             step=1
+            session_duration = st.selectbox(
+    "Study Session Duration (minutes)",
+    [30, 45, 50, 60, 90],
+    index=2)
+
         )
 
         study_date = st.date_input(
